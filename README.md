@@ -35,8 +35,12 @@
 ### **1. Customer Satisfcation Analysis:**
 - By analyzing the key performance indicators such as cabin staff service, food, etc. the Airline can understand which aspects of their service are meeting customer expectations and which are not. This can identify the strengths and weaknessess in customers experience providing a room for enhancement.
 
-### **2.. Geographic Market Analysis**
+### **2. Targeted Marketing Campaigns**
+- By analyzing traveler types (e.g., business, family leisure), the Airline can develop targeted marketing campaigns. For instance, if business travelers are highly satisfied with specific services, the airline can highlight these aspects in their marketing to attract more business customers.
+- 
+### **3. Geographic Market Analysis**
 - We can understand how customer satisfaction varies by region. If certain regions consistently rate services lower, the Airline can explore the reasons and customize their services to meet local preferences, potentially improving market penetration. 
 
-
+### **4. Competitor Benchmarking**
+- The insights gained from the dashboard can be compared with industry benchmarks to assess how British Airways stands against competitors. This can help the airline identify areas where they are leading and where they need to catch up. 
 
