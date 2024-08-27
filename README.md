@@ -1,6 +1,8 @@
 # British Airways Data Analysis
-**Overview:** 
+ ## :notebook_with_decorative_cover:  **Overview:** 
 > This dashboard provides a comprehensive analysis of British Airways based on various customer reviews and ratings. The analysis covers multiple aspects, including overall ratings, seat comfort, cabin staff service, entertainment, food and beverages, ground service, and value for money. The dashboard allows users to filter the data based on different parameters such as aircraft type, seat type, traveler type, and continent. This interactive dashboard has been built using Tablue.
+
+## :hammer_and_wrench: Check out the Deployed Dashboard [Here!](https://public.tableau.com/app/profile/fiona.haria/viz/shared/PKZ5ZN94Q)
 
 ![dashboard](https://github.com/user-attachments/assets/7eb7ef21-14f5-4f79-b3d8-05a689a929d8)
 
@@ -37,7 +39,7 @@
 
 ### **2. Targeted Marketing Campaigns**
 - By analyzing traveler types (e.g., business, family leisure), the Airline can develop targeted marketing campaigns. For instance, if business travelers are highly satisfied with specific services, the airline can highlight these aspects in their marketing to attract more business customers.
-- 
+  
 ### **3. Geographic Market Analysis**
 - We can understand how customer satisfaction varies by region. If certain regions consistently rate services lower, the Airline can explore the reasons and customize their services to meet local preferences, potentially improving market penetration. 
 
